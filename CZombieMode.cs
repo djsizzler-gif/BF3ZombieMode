@@ -109,9 +109,9 @@ namespace PRoConEvents
 		private static string[] DEFAULT_RULES =
 		{
 			"US team are humans, RU team are zombies",
-			"Zombies use knife/defib/repair tool only!",
-			"Zombies are hard to kill",
-			"Humans use guns only, no explosives (nades, RPG, M320, C4, Claymore, ...)!",
+			"Zombies use defib/repair tool only!",
+			"Zombies are easy to kill",
+			"Humans use guns only, and explosives (nades, RPG, M320, C4, Claymore, ...)!",
 			"Zombies win by infecting all humans",
 			"When a zombie kills you, you are infected and moved to the zombie team!"
 		};
